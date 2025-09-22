@@ -46,3 +46,9 @@ Concepts Used: Joins, Group By, Window Functions, Aggregates
 🖼️ Visuals
 Database Schema (ERD)
 Pizza Vibes
+
+📬 Contact
+For feedback, collaboration, or inquiries, please feel free to connect:
+
+Email: [raj.rathore0430@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/raj-rathore-514b51309]
